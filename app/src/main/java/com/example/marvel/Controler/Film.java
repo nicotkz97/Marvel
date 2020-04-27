@@ -29,7 +29,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class Film extends AppCompatActivity {
 
 
-    private final String BASE_URL = "https://raw.githubusercontent.com/Raffael93/Marvel/master/app/src/main/java/com/example/marvel/";
+    private final String BASE_URL = "https://raw.githubusercontent.com/nicotkz97/Marvel/master/app/src/main/java/com/example/marvel/";
 
 
     private RecyclerView recyclerView;
