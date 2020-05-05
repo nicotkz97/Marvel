@@ -17,7 +17,7 @@ import static com.example.marvel.Controler.BD.E_URL;
 public class DetailActivity extends AppCompatActivity {
 
 
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
