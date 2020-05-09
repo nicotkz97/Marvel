@@ -3,7 +3,7 @@
 
   Ce projet permet de récupérer des informations sur une API créer et héberger sur Github sur l'univers de Marvel, à la fois les bandes déssinées et les films de la franchise. 
   L'API se trouve sur le lien suivant : 
-  Ce projet est codé en JAVA, utlisant une architecture MVC (Model, View, Control) il permet de récupérer des informations se trouvant en ligne et de les afficher sur un téléphone androïd.
+  Ce projet est codé en JAVA, utlisant une architecture MVC (Model, View, Controler) il permet de récupérer des informations se trouvant en ligne et de les afficher sur un téléphone androïd.
   
 
 ## Projet Créer par : 
@@ -37,10 +37,12 @@ Nicolas CHARNIOT membre de la 3A-31 à l'école d'ingénieur ESIEA
 ## Ecran Home
 
 - Menu permettant de faire son choix parmis les deux options présentes : Bandes Dessinées ou bien Films
+![BD](https://github.com/nicotkz97/Marvel/blob/master/image/menu_home.PNG)
 
 
 ## Ecran de sélection Films 
 - Affiche une liste non exaustive des films de la franchise Marvel 
+![BD](https://github.com/nicotkz97/Marvel/blob/master/image/bd.PNG)
 
 ## Ecran de sélection Bandes Dessinées
 
