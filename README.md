@@ -6,7 +6,7 @@
   Ce projet est codé en JAVA, utlisant une architecture MVC (Model, View, Controler) il permet de récupérer des informations se trouvant en ligne et de les afficher sur un téléphone androïd.
   
 
-## Projet Créer par : 
+## Projet Créé par : 
 Nicolas CHARNIOT membre de la 3A-31 à l'école d'ingénieur ESIEA
 
 ## Prérequis : 
@@ -33,6 +33,7 @@ Nicolas CHARNIOT membre de la 3A-31 à l'école d'ingénieur ESIEA
 
 - Le lien vers la video complète est le suivant :
 
+https://github.com/nicotkz97/Marvel/tree/master/app/src/main/res/raw
 
 
 ## Ecran Home
