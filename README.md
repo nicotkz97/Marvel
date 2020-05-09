@@ -45,7 +45,7 @@ Nicolas CHARNIOT membre de la 3A-31 à l'école d'ingénieur ESIEA
 ## Ecran de sélection Films 
 - Affiche une liste non exaustive des films de la franchise Marvel 
 
-![BD](https://github.com/nicotkz97/Marvel/blob/master/image/bd.PNG)
+![BD](https://github.com/nicotkz97/Marvel/blob/master/image/film.PNG)
 
 ## Ecran de sélection Bandes Dessinées
 
