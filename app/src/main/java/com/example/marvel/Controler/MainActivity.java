@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity {
         film.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View view) {
-                Intent clubActivity = new Intent (getApplicationContext(), Film.class);
-                startActivity(clubActivity);
+                Intent i = new Intent (getApplicationContext(), Film.class);
+                startActivity(i);
                 finish();
             }
         });
@@ -37,8 +37,8 @@ public class MainActivity extends AppCompatActivity {
         bd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View view) {
-                Intent clubActivity = new Intent (getApplicationContext(), BD.class);
-                startActivity(clubActivity);
+                Intent i2 = new Intent (getApplicationContext(), BD.class);
+                startActivity(i2);
                 finish();
             }
         });
