@@ -24,7 +24,7 @@ public class HomeActivity extends AppCompatActivity {
 
         videoView = findViewById(R.id.video_view);
         Uri video = Uri.parse("android.resource://"+getPackageName()+"/"+R.raw.video);
-        videoView.setVideoURI(video);   
+        videoView.setVideoURI(video);
 
         videoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
             @Override
