@@ -28,7 +28,7 @@ Nicolas CHARNIOT membre de la 3A-31 à l'école d'ingénieur ESIEA
 ## Premier écran : lancement de l'application
 
 - Affichage de la cinématique Marvel
-
+![Menu](https://github.com/nicotkz97/Marvel/blob/master/image/video.PNG)
 
 - Le lien vers la video complète est le suivant :
 
@@ -37,21 +37,26 @@ Nicolas CHARNIOT membre de la 3A-31 à l'école d'ingénieur ESIEA
 ## Ecran Home
 
 - Menu permettant de faire son choix parmis les deux options présentes : Bandes Dessinées ou bien Films
+
 ![BD](https://github.com/nicotkz97/Marvel/blob/master/image/menu_home.PNG)
 
 
 ## Ecran de sélection Films 
 - Affiche une liste non exaustive des films de la franchise Marvel 
+
 ![BD](https://github.com/nicotkz97/Marvel/blob/master/image/bd.PNG)
 
 ## Ecran de sélection Bandes Dessinées
 
 - Affiche une liste non exaustive des bandes dessinées de la franchise Marvel
-- ![BD](https://github.com/nicotkz97/Marvel/blob/master/image/bd.PNG)
+
+![BD](https://github.com/nicotkz97/Marvel/blob/master/image/bd.PNG)
 
 ## Détails des Bandes Dessinées 
 
 - Permet d'afficher différents détails d'une bande déssinées de la liste : 
+
+![BD](https://github.com/nicotkz97/Marvel/blob/master/image/bd_onClick.PNG)
 
 
 
@@ -59,6 +64,7 @@ Nicolas CHARNIOT membre de la 3A-31 à l'école d'ingénieur ESIEA
 
 - Les données sont stockées dans la mémoire cache du téléphone ne nécéssitant plus aucune connexion internet pour pouvoir les consultées.
 
+![BD](https://github.com/nicotkz97/Marvel/blob/master/image/no_internet.PNG)
 
 
 
