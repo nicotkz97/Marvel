@@ -65,7 +65,7 @@ Nicolas CHARNIOT membre de la 3A-31 à l'école d'ingénieur ESIEA
 
 - Les données sont stockées dans la mémoire cache du téléphone ne nécéssitant plus aucune connexion internet pour pouvoir les consultées.
 
-![BD](https://github.com/nicotkz97/Marvel/blob/master/image/no_internet.PNG)
+![BD](https://github.com/nicotkz97/Marvel/blob/master/image/no_internet.jpeg)
 
 
 
